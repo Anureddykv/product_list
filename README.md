@@ -37,6 +37,3 @@ https://demo9844902.mockable.io/sstpath
 ## 📬 Download APK  
 [Download Latest APK] (https://github.com/Anureddykv/product_list/blob/main/app-release.apk)  
 
-## 📜 License  
-This project is licensed under the MIT License.
-
